@@ -1,0 +1,99 @@
+[[difmap]]
+arch = "aarch64"
+git-tree-sha1 = "07f26a99360d0d73822cd1d79a64925eca7f0a76"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[difmap.download]]
+    sha256 = "2e40122ef95f4375baacf1d2c1c9995ff1b51a22de3c6fdc25d3256228d950fc"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[difmap]]
+arch = "i686"
+git-tree-sha1 = "2cb94e3deae78a2c6ff92e210782b8c84c61ada3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "1aa2d94762abf21ebaf8031b1fe8c9d8705291b2e19cde1fe307be2642dd2d91"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran3.tar.gz"
+[[difmap]]
+arch = "i686"
+git-tree-sha1 = "c5d12883fa02363f3f992a27013205204955519e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "fc93ce0db7ba82df799266607c2fd7ded3a437041f39850f13203c74cdbc4a54"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran4.tar.gz"
+[[difmap]]
+arch = "i686"
+git-tree-sha1 = "5f969ea7752350e069bba75d7d6d415737915308"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "c2cd480edabdca93dd6657a70c9c4e5cb9f6ca6d1e561c79f18e3ae9d6836e09"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.i686-linux-gnu-libgfortran5.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "424693bc847d318c5f7cb6aca66a162b9cc2de94"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "6ffaec51980b4a18c25feab72f556858c30dd6f09958d8cf1edb67097ec3ad4e"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "86f09e6a3918facf3d9b9dce280848ccd6119471"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "b2cc6ff1a34ef9caf9700460852537b790036cb4d4e8bffedf2d0bad7aea4cde"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "795b1972cfd3b8223c74f4306a8738f5b8d0060e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "f8aa3f17fb83cdd323778af38ced4c076dd8ef488cef8b5472dc541d0bec9be0"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "f16764f6e4c8216879302fa0808ac88ed5f097f8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "003f9b2cdd23b9c70f614dac7ccc52964dde7da7dfd7b705f325dbc3479d7899"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran3.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "6a6c509bfe315ba328c251e3e026bb07f41846df"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "8a81c9046dd7de68fc0d6c232afc78eb96f36bd8e28cd6855f28959d44e4f3f9"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran4.tar.gz"
+[[difmap]]
+arch = "x86_64"
+git-tree-sha1 = "bdcef82df0a5647995bfe65a3e64563181a7812a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[difmap.download]]
+    sha256 = "6af87af4b62293f51a776a798e78a22a66a927d2a1f126d507bbe7f42a841015"
+    url = "https://github.com/aplavin/difmap_jll.jl/releases/download/difmap-v2.5.17+0/difmap.v2.5.17.x86_64-linux-musl-libgfortran5.tar.gz"
